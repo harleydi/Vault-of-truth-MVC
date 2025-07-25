@@ -1,0 +1,31 @@
+{
+  "name": "vault-of-truth-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type":"commonjs",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harleydi/Vault-of-truth-MVC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/harleydi/Vault-of-truth-MVC/issues"
+  },
+  "homepage": "https://github.com/harleydi/Vault-of-truth-MVC#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
